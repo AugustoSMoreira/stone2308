@@ -1,2 +1,2 @@
 # stone_gama
-### Atividade C# / .NET sobre Switch, Class., Métodos e Parâmetros.
+### Atividade Console de C# / .NET sobre Switch, Class., Métodos e Parâmetros.
